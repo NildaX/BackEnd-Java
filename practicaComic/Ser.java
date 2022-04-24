@@ -1,3 +1,3 @@
 public interface Ser {
-    String contarHistoria(String contar);
+    void contarHistoria(String contar);
 }
